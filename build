@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "In build file: Build started"
+
+echo "In build file: Build finished"
